@@ -2,4 +2,4 @@
 
 This project should be like this
 
-![image](./images/sarahgushef.com.png)
+![image](./images/sarahgushef.com.jpg)
