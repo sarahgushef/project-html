@@ -1,3 +1,3 @@
-# Latihan Basic HTML
+# My Personal Website (Insya Alloh)
 
-Project HTML to implement personal website
+This project is my html exercise
