@@ -1,3 +1,5 @@
-# Latihan Basic HTML
+# My Personal Website (Insya Alloh)
 
-Project HTML to implement personal website
+This project should be like this
+
+![image](./images/sarahgushef.com.png)
